@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NeuroStartUp
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
@@ -8,6 +7,3 @@
 1. Высокая точность поиска
 2. Высокая скорость поиска
 3. Низкая цена
-=======
-# newRepoForHomework
->>>>>>> e6176e2ae2cfb5424df1349e2c8f715490f533ff
